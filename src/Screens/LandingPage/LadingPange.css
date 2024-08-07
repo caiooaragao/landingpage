@@ -1,0 +1,9 @@
+.text-brake-evenly {
+    font-size: clamp(1rem, 2vw, 1.5rem);
+}
+
+.youtube-player {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+    height: 100%;
+}
